@@ -23,6 +23,7 @@ form {
     background-color: rgb(146, 191, 237);
     padding: 24px 0;
     text-align: center;
+    display: none;
 }
 form h2{
 margin-bottom: 16px;
